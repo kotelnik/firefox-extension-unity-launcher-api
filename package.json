@@ -1,0 +1,16 @@
+{
+  "title": "Unity Launcher API Addon",
+  "name": "unity-launcher-api-extension",
+  "version": "1.0.0",
+  "description": "Add-on for Unity Launcher API integration regarding download progress and count.",
+  "main": "index.js",
+  "author": "Kotelnik",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "GPL2",
+  "keywords": [
+    "unity", "launcherapi", "download", "progress"
+  ]
+}
